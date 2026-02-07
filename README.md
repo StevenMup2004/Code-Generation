@@ -1,9 +1,5 @@
----
-
-## 📁 Project Structure
 
 ```
-.
 ├── Experiment/
 │   ├── Scenario1/                 
 │   │   ├── CodeLlama/
